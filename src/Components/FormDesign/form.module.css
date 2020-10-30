@@ -1,0 +1,52 @@
+#btn1 {
+    position: relative;
+    /* right: 1%; */
+    left: 81%;
+    top: 16%;
+    background-color: rgba(0, 63, 97, 1);
+    color: white;
+}
+#btn2 {
+    position: relative;
+    /* right: 1%; */
+    left: 83%;
+    top: 16%;
+    background-color: rgba(224, 224, 224, 1);
+}
+.heading{
+    position: relative;
+   top:15%;
+}
+.MuiFormHelperText-root{
+    text-align: right !important; 
+}
+
+#pic{
+    display: none;
+}
+      
+.newbtn{
+        cursor: pointer;
+}
+#blah{
+ max-width:125px;
+ height:100px;
+ margin-top:20px;
+}
+#ckeditor{
+    min-height: 5vh;
+}
+
+#blah1{
+    width: 35rem;
+    height: 10rem;
+    border: dashed; 
+    border-color: gray;
+    background-color: rgba(248, 249, 250, 1);
+}
+#pic1{
+    display: none;
+    width: 5rem;
+    height: 2rem;
+  
+}
